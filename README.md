@@ -12,6 +12,8 @@ https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
 ![programming notes](https://raw.githubusercontent.com/mmackenzie-syd/java-web-notes/main/source-thb.png)
 
+(The pdf screen-grab downloads are included in case the notes are taken down by the University).
+
 #### Java Servlet / JSP
 
 [0. How to Install Tomcat and Get Started](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_HowTo.html)
