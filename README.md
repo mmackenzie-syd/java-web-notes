@@ -6,7 +6,7 @@ Notes on Java Server-Side programming downloaded from
 
 [Nanyang Technological University - NTU Singapore](https://www.ntu.edu.sg/)
 
-at:
+direct link at:
 
 https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
