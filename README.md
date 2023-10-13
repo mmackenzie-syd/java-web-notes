@@ -38,7 +38,7 @@ https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
 [11. Java Web Services](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaWebServices.html)
 
-The pdf screen-grabs of the above web pages are included in this repository in case the notes are taken down by the University.
+The pdf screen-grabs of the above web pages are included in this repository.
 
 
 
